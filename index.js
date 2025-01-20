@@ -14,7 +14,7 @@ inputs.forEach((input) => {
 });
 
 const generateEmail = () => {
-  const user = 'jorgevargas0240';
+  const user = 'Jeniferpaolamendozahenriquez';
   const at = '@';
   const domain = 'gmail';
   return `${user}${at}${domain}.com`;
